@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VocoLatin",
+  "description": "An elegant Latin vocabulary learning app featuring AI-generated visual aids, audio pronunciations, and dynamic practice sentences using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
